@@ -1,5 +1,5 @@
 # 🤖 WhatsApp AI Auto Reply Bot
-
+*Launch Date:-* 5th May , 2026 15:15 PM
 An advanced **AI-powered WhatsApp automation tool** that reads incoming messages and replies automatically using a local AI model.
 
 Built with **Python + Selenium + Ollama + CustomTkinter**, this bot acts like your personal assistant—replying instantly, intelligently, and privately.
